@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\android",
+    "\\android\\app",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\components",
+    "\\src\\navigators",
+    "\\src\\screens",
+    "\\src\\screens\\customer",
+    "\\src\\screens\\driver"
+  ],
+  "SelectedNode": "\\src\\screens\\customer\\Main.js",
+  "PreviewInSolutionExplorer": false
+}

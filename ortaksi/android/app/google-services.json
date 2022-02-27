@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027091099665",
+    "project_id": "ortaksi-ee022",
+    "storage_bucket": "ortaksi-ee022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027091099665:android:dd7d243e302a906ba841b0",
+        "android_client_info": {
+          "package_name": "com.ortaksi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027091099665-7vtp52q808nggsnm9ninka10q3erqkk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9XRnhHZpyGJf4yprseKTm6--gwq_ktwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027091099665-7vtp52q808nggsnm9ninka10q3erqkk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+com/ortaksi/BuildConfig.java
+ com.ortaksi.BuildConfig
+com/ortaksi/MainActivity.java
+ com.ortaksi.MainActivity
+com/ortaksi/MainApplication.java
+ com.ortaksi.MainApplication
+ com.ortaksi.MainApplication$1
+com/ortaksi/ReactNativeFlipper.java
+ com.ortaksi.ReactNativeFlipper
+ com.ortaksi.ReactNativeFlipper$1
+ com.ortaksi.ReactNativeFlipper$2
+ com.ortaksi.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

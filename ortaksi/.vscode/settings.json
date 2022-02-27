@@ -1,0 +1,22 @@
+{
+    "files.exclude": {
+        "__tests__": true,
+        ".buckconfig": true,
+        ".editorconfig": true,
+        ".eslintrc.js": true,
+        ".flowconfig": true,
+        ".gitattributes": true,
+        ".prettierrc.js": true,
+        ".watchmanconfig": true,
+        "**/.DS_Store": true,
+        "**/.git": true,
+        "**/.gradle": true,
+        "**/.hg": true,
+        "**/.svn": true,
+        "**/CVS": true,
+        "babel.config.js": true,
+        "ios": true,
+        "metro.config.js": true,
+        "node_modules": true
+    }
+}
